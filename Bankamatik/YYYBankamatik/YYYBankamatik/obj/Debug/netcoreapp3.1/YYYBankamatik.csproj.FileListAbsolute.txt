@@ -1,0 +1,11 @@
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\bin\Debug\netcoreapp3.1\YYYBankamatik.exe
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\bin\Debug\netcoreapp3.1\YYYBankamatik.deps.json
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\bin\Debug\netcoreapp3.1\YYYBankamatik.runtimeconfig.json
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\bin\Debug\netcoreapp3.1\YYYBankamatik.runtimeconfig.dev.json
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\bin\Debug\netcoreapp3.1\YYYBankamatik.dll
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\bin\Debug\netcoreapp3.1\YYYBankamatik.pdb
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\obj\Debug\netcoreapp3.1\YYYBankamatik.csprojAssemblyReference.cache
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\obj\Debug\netcoreapp3.1\YYYBankamatik.AssemblyInfoInputs.cache
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\obj\Debug\netcoreapp3.1\YYYBankamatik.AssemblyInfo.cs
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\obj\Debug\netcoreapp3.1\YYYBankamatik.dll
+C:\Users\Yavuz\OneDrive\Masaüstü\Bankamatik\YYYBankamatik\YYYBankamatik\obj\Debug\netcoreapp3.1\YYYBankamatik.pdb
